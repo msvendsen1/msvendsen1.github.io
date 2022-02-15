@@ -1,11 +1,9 @@
 title: Mark Svendsen # your name (or website title) here
 logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Geologist, Geospatial Scientist, and Human Resource Manager
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+  I'm seeking a Geologist position that utilizes remote sensing to study the Earth. 
+    
 theme: jekyll-theme-cayman
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
