@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Determing Seasonal Change Impacts Land Cover Classification’s Accuracy](/pdf/marksvendsen_poster.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
