@@ -5,11 +5,11 @@
 ### Category Name 1 
 
 [Land Cover Map of the Chihuahuan Desert](/pdf/marksvendsen_landcover.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/landcover.jpg?raw=true"/>
 
 ---
 [Determing Seasonal Change Impacts Land Cover Classification’s Accuracy](/pdf/marksvendsen_poster.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/change.jpg?raw=true"/>
 
 ---
 
