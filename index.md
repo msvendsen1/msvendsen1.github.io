@@ -8,7 +8,7 @@
 <img src="images/landcover.JPG?raw=true"/>
 
 ---
-[Determing Seasonal Change Impacts Land Cover Classification’s Accuracy](/pdf/marksvendsen_poster.pdf)
+[Determing Seasonal Change Impacts Land Cover Classification’s Accuracy](/pdf/msvendsen_poster.pdf)
 <img src="images/change.JPG?raw=true"/>
 
 ---
