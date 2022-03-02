@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Past Projects 
 
 [Land Cover Map of the Chihuahuan Desert](/pdf/marksvendsen_landcover.pdf)
 <img src="images/landcover.JPG?raw=true"/>
@@ -13,7 +13,7 @@
 
 ---
 
-### Category Name 2
+### Map Creations
 
 - [Elevation Cluster Analysis of Appleby, Texas](https://arcg.is/1KOC45)
 - [Point Pattern Analysis Random V. Evenly Spaced](https://arcg.is/SXe4b)
