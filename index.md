@@ -20,7 +20,6 @@
 
 ---
 
-## 
 [Remote Sensing App](/images/split.JPG)
 <img src="images/split.JPG?raw=true"/>
 
